@@ -12,6 +12,11 @@ right:unet segmentation output
 
 ![](images/tensorboard.png?raw=true)
 
-###### .             |  ###### .
+<img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80">  |  <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80">
+
+<img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80"> <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80">
+
+
+###### .             | .
 :-------------------------:|:-------------------------:
 <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80">  |  <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80">
