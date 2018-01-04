@@ -12,7 +12,6 @@ right:unet segmentation output
 
 ![](images/tensorboard.png?raw=true)
 
-
-             |  
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](images/g1.png?raw=true)  |  ![](images/g2.png?raw=true)
