@@ -8,4 +8,6 @@ After running Unet 4 times(epoch = 4) on only 12 images, we get the following ou
 
 left:image, middle:ground truth, right:unet segmentation output
 
-![Alt-text-1](images/tensorboard.png?raw=true segmentation output) ![Alt-text-2](images/tensorboard.png?raw=true segmentation output)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](images/tensorboard.png?raw=true)  |  ![](images/tensorboard.png?raw=true)
