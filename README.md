@@ -12,6 +12,9 @@ right:unet segmentation output
 
 ![](images/tensorboard.png?raw=true)
 
+
+Below are the losses at every batch, epoch for training and validation sets.
+
 <p align="center">
 <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="200"> <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="200">
 </p>
