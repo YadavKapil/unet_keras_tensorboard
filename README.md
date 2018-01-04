@@ -14,4 +14,4 @@ right:unet segmentation output
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](images/g1.png?raw=true)  |  ![](images/g2.png?raw=true)
+![](images/g1.png?raw=true =100x)  |  ![](images/g2.png?raw=true =100x)
