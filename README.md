@@ -12,6 +12,6 @@ right:unet segmentation output
 
 ![](images/tensorboard.png?raw=true)
 
-Solarized dark             |  Solarized Ocean
+###### .             |  ###### .
 :-------------------------:|:-------------------------:
-<img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="48">  |  <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="48">
+<img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80">  |  <img src="https://github.com/YadavKapil/unet_keras_tensorboard/blob/master/images/g1.png" width="80">
