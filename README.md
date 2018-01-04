@@ -6,8 +6,13 @@ The code is written keeping in mind that it will be run on Kaggle Carvana Image 
 
 After running Unet 4 times(epoch = 4) on only 12 images, we get the following output - 
 
-left:image, middle:ground truth, right:unet segmentation output
+left:image,
+middle:ground truth,
+right:unet segmentation output
 
-Solarized dark             |  Solarized Ocean
+![](images/tensorboard.png?raw=true)
+
+
+             |  
 :-------------------------:|:-------------------------:
-![](images/tensorboard.png?raw=true)  |  ![](images/tensorboard.png?raw=true)
+![](images/g1.png?raw=true)  |  ![](images/g2.png?raw=true)
