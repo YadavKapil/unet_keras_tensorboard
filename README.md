@@ -8,4 +8,4 @@ After running Unet 4 times(epoch = 4) on only 12 images, we get the following ou
 
 left:image, middle:ground truth, right:unet segmentation output
 
-![Alt text](images/tensorboard.png?raw=true "left:image, middle:ground truth, right:unet segmentation output")
+![Alt text](images/tensorboard.png?raw=true segmentation output) ![Alt text](images/tensorboard.png?raw=true segmentation output)
